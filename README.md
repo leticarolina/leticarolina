@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Letícia Azevedo!
+# 💻 Hi, I’m Letícia Azevedo! 🌸
 
 An aspiring **Smart Contract Developer** with a passion for **DeFi**, **blockchain technology**, and the evolving world of **Web3**. 🚀 I’m on a journey to become a skilled **Solidity developer** and love diving deep into **Decentralized Finance protocols**, exploring how **blockchain** is revolutionizing the world.
 
