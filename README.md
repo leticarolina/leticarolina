@@ -4,7 +4,7 @@ An aspiring **Smart Contract Developer** with a passion for **DeFi**, **blockcha
 
 🌍 I’m from **Brazil**, currently exploring **Web3 development** and **frontend**.  
 💬 Reach me at: [leticiac@email.com](mailto:leticiac@email.com)  
-🌐 Visit my portfolio: [www.leticiaazevedo.com](http://www.leticiaazevedo.com)
+🌐 Visit my site: [www.letiazevedo.com](http://www.leticiaazevedo.com)
 
 ---
 
