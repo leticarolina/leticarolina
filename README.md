@@ -1,14 +1,22 @@
-# 💻 Hi, I’m Letícia Azevedo! 🌸
+## 💻 Oi, I'm Letícia Azevedo 🌸
 
-An aspiring **Smart Contract Developer** with a passion for **DeFi**, **blockchain technology**, and the evolving world of **Web3**. 🚀 I’m on a journey to become a skilled **Solidity developer** and love diving deep into **Decentralized Finance protocols**, exploring how **blockchain** is revolutionizing the world.
+I’m a smart contract developer in the making, actively building on the EVM with Solidity and Foundry. Passionate about the potential of blockchain, I’m currently focused on mastering smart contract development and security.
 
-🌍 I’m from **Brazil**, currently exploring **Web3 development** and **frontend**.  
-💬 Reach me at: [leticiac@email.com](mailto:leticiac@email.com)  
-🌐 Visit my site: [www.letiazevedo.com](http://www.letiazevedo.com)
+🌍 Based in Brazil, building globally.
 
----
+**Current stack & tools:**
+- Solidity, Foundry (unit testing, scripting, mocking, fuzzing)
+- Chainlink VRF & Automation
+- JavaScript & React (for frontend integration)
+- Git & GitHub (version control & open-source collaboration)
 
-### 🌱 What I'm Learning:
-- **Solidity**: Writing smart contracts for **Ethereum-based** systems.
-- **Blockchain Concepts**: From consensus mechanisms to cryptographic fundamentals.
-- **JavaScript/React**: Complementing smart contract development with **frontend integration**.
+**Ongoing projects:**
+- 🎟️ Raffle contract using Chainlink VRF (Foundry + VRF v2.5)
+- 🔒 Smart Contract Security course (Cyfrin)
+
+**Let’s connect!**
+- Website: [www.letiazevedo.com](https://www.letiazevedo.com)
+- Email: leticiac@email.com
+- LinkedIn: [linkedin.com/in/leticarolina](https://www.linkedin.com/in/leticarolina)
+
+🚀 I believe the next wave of blockchain innovation depends on smart, secure, and gas-efficient contracts, let's make that happen.
