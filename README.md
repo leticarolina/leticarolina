@@ -2,7 +2,7 @@
 
 I’m a smart contract developer in the making, actively building on the EVM with Solidity and Foundry. Passionate about the potential of blockchain, I’m currently focused on mastering smart contract development and security.
 
-🌍 Based in Brazil, building globally.
+🌍 From Brazil, building globally.
 
 **Current stack & tools:**
 - Solidity, Foundry (unit testing, scripting, mocking, fuzzing)
@@ -19,4 +19,4 @@ I’m a smart contract developer in the making, actively building on the EVM wit
 - Email: leticiac@email.com
 - LinkedIn: [linkedin.com/in/leticarolina](https://www.linkedin.com/in/leticarolina)
 
-🚀 I believe the next wave of blockchain innovation depends on smart, secure, and gas-efficient contracts, let's make that happen.
+🚀 I believe the next wave of blockchain innovation depends on smart, secure, and gas-efficient contracts. Let's make that happen!
