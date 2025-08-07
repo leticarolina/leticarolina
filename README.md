@@ -1,4 +1,4 @@
-## 💻 Oi, I'm Letícia Azevedo 🌸
+## 💻 Oi, I'm Leticia Azevedo 🌸
 
 I’m a smart contract developer in the making, actively building on the EVM with Solidity and Foundry. Passionate about the potential of blockchain, I’m currently focused on mastering smart contract development and security.
 
