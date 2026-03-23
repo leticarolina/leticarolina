@@ -1,4 +1,4 @@
-## 💻 Olá I'm Leticia 🌺
+## 💻 Olá, I'm Leticia 🌺
 
 I’m a Blockchain Developer actively building on the EVM with Solidity and Foundry.
 
