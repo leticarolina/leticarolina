@@ -9,7 +9,7 @@ I’m a Blockchain Developer actively building on the EVM with Solidity and Foun
 - Oracles, ERCs, DeFi Primitives, WorldID integrations.
 - JavaScript & React.js
 
-**Ongoing projects
+**Ongoing projects**
 - LockFi - a Vault that 
 - [MarriageDAO](https://github.com/leticarolina/worldid-marriage-protocol) miniapp on World Chain.
 - 🔒 Smart Contract Security course (Cyfrin)
