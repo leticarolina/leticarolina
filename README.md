@@ -1,20 +1,26 @@
-## 💻 Olá, I'm Leticia 🌺
+## Ola, I'm Leticia
 
-I’m a Blockchain Developer actively building on the EVM with Solidity and Foundry.
+Blockchain developer building security-focused smart contracts on EVM.
+Based in Brazil, building globally.
 
-🌍 From Brazil, building globally.
+🏆 1st Place — Monad Hackathon 2026 with [LockFi](https://lock-fi.vercel.app/)
 
-**Current stack & tools:**
-- Solidity & Foundry
-- Oracles, ERCs, DeFi Primitives, WorldID integrations.
-- JavaScript & React.js
+---
 
-**Ongoing projects**
-- LockFi - a Vault that 
-- [MarriageDAO](https://github.com/leticarolina/worldid-marriage-protocol) miniapp on World Chain.
-- 🔒 Smart Contract Security course (Cyfrin)
+**What I build:**
+- Security protocols & smart vaults
+- DeFi primitives — stablecoins, collateral systems, AMMs
+- Identity-gated contracts using World ID
+- Full-stack dApps with React frontends
 
-**Socials**
-- Website: [www.letiazevedo.com](https://www.letiazevedo.com)
-- Email: leticiac@email.com
-- LinkedIn: [linkedin.com/in/leticarolina](https://www.linkedin.com/in/leticarolina)
+**Current stack:**
+Solidity · Foundry · OpenZeppelin · Chainlink Oracles · ERCs · wagmi · ethers.js · React
+
+**Deployed contracts:**
+→ [github.com/leticarolina/contracts-deployed](https://github.com/leticarolina/contracts-deployed)
+
+---
+
+**Find me:**
+- [letiazevedo.com](https://www.letiazevedo.com)
+- [linkedin.com/in/leticarolina](https://www.linkedin.com/in/leticarolina)
